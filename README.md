@@ -142,8 +142,8 @@ This project analyzes HR data to identify key factors driving employee attrition
 **Ajaie Ahkash**  
 Data Analyst | SQL · Power BI · Tableau · Excel · Python
 
-[![LinkedIn](https://www.linkedin.com/in/ajaie-ahkash/)]
-[![GitHub](https://github.com/Ajaie695)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/ajaie-ahkash/)
+[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?logo=github)](https://github.com/Ajaie695)
 
 ---
 
