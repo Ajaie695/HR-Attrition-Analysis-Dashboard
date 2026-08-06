@@ -134,27 +134,17 @@ This project analyzes HR data to identify key factors driving employee attrition
 - **Source:** HR Analytics Dataset — provided by ExcelR as part of virtual internship curriculum
 - **Tables:** `HR_1` (employee info), `HR_2` (salary and work data)
 - **Total Records:** 50,000 employees
-- **Key Fields:** EmployeeNumber, Department, JobRole, Gender, Attrition, MonthlyIncome, HourlyRate, YearsAtCompany, TotalWorkingYears, WorkLifeBalance, OverTime, YearsSinceLastPromotion
-
----
-
-## Live Dashboard
-
-| Platform | Link |
-|----------|------|
-| Tableau Public | [View Live HR Attrition Dashboard](https://public.tableau.com/app/profile/piyushdave/viz/HR_Analytics_Tableau_17765068172250/Dashboard) |
+- **Key Fields:** EmployeeNumber, Department, JobRole, Gender, Attrition, MonthlyIncome, HourlyRate, YearsAtCompany, TotalWorkingYears, WorkLifeBalance, OverTime, YearsSinceLastPromotion |
 
 ---
 
 ## Author
 
-**Piyush Dave**  
+**Ajaie Ahkash**  
 Data Analyst | SQL · Power BI · Tableau · Excel · Python
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/piyush-dave-0980a03a8)
-[![Tableau](https://img.shields.io/badge/Tableau-Public-orange?logo=tableau)](https://public.tableau.com/app/profile/piyushdave/vizzes)
-[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?logo=github)](https://github.com/PiyushDave30)
+[![LinkedIn](https://www.linkedin.com/in/ajaie-ahkash/)
+[![GitHub](https://github.com/Ajaie695)
 
 ---
 
-> *This project was completed as part of a virtual internship at AI Variant through ExcelR's Data Analyst program.*
