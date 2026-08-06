@@ -24,7 +24,7 @@ This project analyzes HR data to identify key factors driving employee attrition
 | **MySQL** | Employee data queries, attrition analysis, salary segmentation, JOIN operations |
 | **Power BI** | Single-page interactive HR Attrition Analysis Dashboard |
 | **Tableau** | HR Attrition Analytics Dashboard with department and income filters |
-| **Excel** | HR Attrition Dashboard *(in progress)* |
+| **Excel** | HR Attrition Dashboard |
 
 ---
 
